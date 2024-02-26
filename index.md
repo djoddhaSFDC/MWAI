@@ -7,8 +7,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00DIS000000Jmjl',
-				'SmartTech_Web_Messaging',
-				'https://smarttechinnovationscom-dev-ed.develop.my.site.com/ESWSmartTechWebMessagin1708372474054',
+				'Tech_Innovations',
+				'https://smarttechinnovationscom-dev-ed.develop.my.site.com/ESWTechInnovations1708929913250',
 				{
 					scrt2URL: 'https://smarttechinnovationscom-dev-ed.develop.my.salesforce-scrt.com'
 				}
@@ -18,6 +18,6 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://smarttechinnovationscom-dev-ed.develop.my.site.com/ESWSmartTechWebMessagin1708372474054/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://smarttechinnovationscom-dev-ed.develop.my.site.com/ESWTechInnovations1708929913250/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
   </body>
 </html>
